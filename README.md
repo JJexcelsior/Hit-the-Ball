@@ -48,7 +48,7 @@ Definition of the different states and their transition (transition functions)
 ## Links
 
 
-## Trello
+### Trello
 [Link url] (https://trello.com/b/zxBa3kwZ/hit-the-ball)
 
 ### Git
