@@ -49,13 +49,13 @@ Definition of the different states and their transition (transition functions)
 
 
 ### Trello
-[Link url] (https://trello.com/b/zxBa3kwZ/hit-the-ball)
+[Link url](https://trello.com/invite/b/zxBa3kwZ/d55d722518224ddf1fc3cb4370d7dc51/hit-the-ball)
 
 ### Git
 URls for the project repo and deploy 
-[Link Repo] (https://github.com/JJexcelsior/Hit-the-Ball.git)
+[Link Repo](https://github.com/JJexcelsior/Hit-the-Ball.git)
 [Link Deploy]
 
 ### Slides
-URls for the project presentation (slides) [Link Slides.com]
+URls for the project presentation (slides)[Link Slides.com]
 
