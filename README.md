@@ -6,15 +6,15 @@ Hit the is ball a game where 2 players control each of the them a paddle. The pa
 
 ## MVP (DOM - CANVAS)
 
-    - the game has two paddles that moves vertically
-    - one paddles hit a ball agains to the other side of the screen and the second paddle has to avoid that the ball leaves the game area 
-    - after hitting the second paddle the ball the paddle of the other side of the screen has to hit the ball preventing the ball to leave his side of the gaming area
+   - the game has two paddles that moves vertically
+   - one paddles hit a ball agains to the other side of the screen and the second paddle has to avoid that the ball leaves the game area 
+   - after hitting the second paddle the ball the paddle of the other side of the screen has to hit the ball preventing the ball to leave his side of the gaming area
  
 
 ## Backlog
-    - Add score
-    - Levels
-    - Add Sound
+   - Add score
+   - Levels
+   - Add Sound
 
 ## Data structure
 Classes and methods definition.
@@ -57,7 +57,5 @@ URls for the project repo and deploy
 [Link Deploy]
 
 ### Slides
-URls for the project presentation (slides)
-[Link Slides.com]
+URls for the project presentation (slides) [Link Slides.com]
 
-URls for the project presentation (slides) Link Slides.com
